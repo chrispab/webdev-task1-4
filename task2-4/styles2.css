@@ -176,7 +176,16 @@ html {
     font-size: 12px;
     padding: 15px;
 }
-
+.removetext {
+    margin-left: 15px;
+    color: red;
+    font-weight: bold;
+    float: right;
+    font-size: 0.8em;
+    line-height: 20px;
+    cursor: pointer;
+    transition: 0.3s;
+}
 
 /* Set default size for minimum 640px min whatever */
 
