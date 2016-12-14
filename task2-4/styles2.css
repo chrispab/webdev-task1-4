@@ -177,6 +177,7 @@ html {
     padding: 15px;
 }
 .removetext {
+  background-color: #aaa;
     margin-left: 15px;
     color: red;
     font-weight: bold;
